@@ -2,6 +2,13 @@
 A deep learning-based audio classification project using the UrbanSound8K dataset. It extracts MFCC features from audio files and classifies them using CNN.
 
 ---
+Features
+
+- Utilizes UrbanSound8K dataset
+- MFCC feature extraction using `librosa`
+- CNN model built with TensorFlow/Keras
+- Classification of 10 types of urban sounds
+- Performance evaluation using accuracy, precision, recall, F1-score
 
 ## 📊 Dataset
 
